@@ -1,6 +1,6 @@
 # TicketView
 
-[![](https://jitpack.io/v/santalu/ticket-view.svg)](https://jitpack.io/#santalu/ticket-view)
+[![](https://jitpack.io/v/santalu/ticket-view.svg)](https://jitpack.io/#santalu/ticket-view) [![Build Status](https://travis-ci.org/santalu/ticket-view.svg?branch=master)](https://travis-ci.org/santalu/ticket-view)
 
 A simple layout for displaying tickets.
 
