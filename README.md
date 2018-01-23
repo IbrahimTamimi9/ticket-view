@@ -20,7 +20,7 @@ allprojects {
 ```
 ```
 dependencies {
-  compile 'com.github.santalu:ticket-view:1.0'
+  compile 'com.github.santalu:ticket-view:1.0.1'
 }
 ```
 
