@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <declare-styleable name="TicketView">
-        <attr format="reference" name="tv_anchor"/>
-        <attr format="float" name="tv_holeRadius"/>
-        <attr format="enum" name="tv_orientation">
-            <enum name="horizontal" value="0"/>
-            <enum name="vertical" value="1"/>
-        </attr>
-    </declare-styleable>
+  <declare-styleable name="TicketView">
+    <attr format="reference" name="tv_anchor"/>
+    <attr format="float" name="tv_holeRadius"/>
+    <attr format="enum" name="tv_orientation">
+      <enum name="horizontal" value="0"/>
+      <enum name="vertical" value="1"/>
+    </attr>
+  </declare-styleable>
 
 </resources>
